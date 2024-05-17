@@ -97,7 +97,7 @@ section > main {
 }
 
 .item-1 {
-  background-image: url("../assests/furniture-img/cabinet-contemporary-cups-decoration-279618.jpg");
+  background-image: url("../furniture-img/cabinet-contemporary-cups-decoration-279618.jpg");
   background-size: 100% 100%;
   transition: all 0.5s;
 }
@@ -139,12 +139,12 @@ section > main {
 
 .item-1:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/furniture-img/cabinet-contemporary-cups-decoration-279618.jpg");
+    url("../furniture-img/cabinet-contemporary-cups-decoration-279618.jpg");
   cursor: pointer;
 }
 
 .item-2 {
-  background-image: url("../assests/furniture-img/orbicular-plant-on-desk-2249959.jpg");
+  background-image: url("../furniture-img/orbicular-plant-on-desk-2249959.jpg");
   background-size: 100% 100%;
   transition: all 0.5s;
 }
@@ -186,12 +186,12 @@ section > main {
 
 .item-2:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/furniture-img/orbicular-plant-on-desk-2249959.jpg");
+    url("../furniture-img/orbicular-plant-on-desk-2249959.jpg");
   cursor: pointer;
 }
 
 .item-3 {
-  background-image: url("../assests/furniture-img/green-wooden-chair-on-white-surface-963486.jpg");
+  background-image: url("../furniture-img/green-wooden-chair-on-white-surface-963486.jpg");
   background-size: 100% 100%;
   transition: all 0.5s;
 }
@@ -233,12 +233,12 @@ section > main {
 
 .item-3:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/furniture-img/green-wooden-chair-on-white-surface-963486.jpg");
+    url("../furniture-img/green-wooden-chair-on-white-surface-963486.jpg");
   cursor: pointer;
 }
 
 .item-4 {
-  background-image: url("../assests/furniture-img/beige-and-black-chair-in-front-of-white-desk-509922.jpg");
+  background-image: url("../furniture-img/beige-and-black-chair-in-front-of-white-desk-509922.jpg");
   background-size: 100% 100%;
   transition: all 0.5s;
 }
@@ -280,7 +280,7 @@ section > main {
 
 .item-4:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/furniture-img/beige-and-black-chair-in-front-of-white-desk-509922.jpg");
+    url("../furniture-img/beige-and-black-chair-in-front-of-white-desk-509922.jpg");
   cursor: pointer;
 }
 
