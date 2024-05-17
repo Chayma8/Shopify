@@ -97,7 +97,7 @@ section > main {
 }
 
 .item-1 {
-  background-image: url("../assests/men-women-img/a346dcff7f228d755aaf6970227c62b6.jpg");
+  background-image: url("../men-women-img/a346dcff7f228d755aaf6970227c62b6.jpg");
   background-size: 100% 100%;
 }
 
@@ -138,12 +138,12 @@ section > main {
 
 .item-1:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/a346dcff7f228d755aaf6970227c62b6.jpg");
+    url("../men-women-img/a346dcff7f228d755aaf6970227c62b6.jpg");
   cursor: pointer;
 }
 
 .item-2 {
-  background-image: url("../assests/men-women-img/p-009_2.jpg");
+  background-image: url("../men-women-img/p-009_2.jpg");
   background-size: 100% 100%;
 }
 
@@ -184,12 +184,12 @@ section > main {
 
 .item-2:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/p-009_2.jpg");
+    url("../men-women-img/p-009_2.jpg");
   cursor: pointer;
 }
 
 .item-3 {
-  background-image: url("../assests/men-women-img/photo-of-man-in-black-crew-neck-t-shirt-standing-beside-3662357.jpg");
+  background-image: url("../men-women-img/photo-of-man-in-black-crew-neck-t-shirt-standing-beside-3662357.jpg");
   background-size: 100% 100%;
 }
 
@@ -230,12 +230,12 @@ section > main {
 
 .item-3:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/photo-of-man-in-black-crew-neck-t-shirt-standing-beside-3662357.jpg");
+    url("../men-women-img/photo-of-man-in-black-crew-neck-t-shirt-standing-beside-3662357.jpg");
   cursor: pointer;
 }
 
 .item-4 {
-  background-image: url("../assests/men-women-img/photo-of-tattooed-man-in-black-t-shirt-sunglasses-and-black-2585828.jpg");
+  background-image: url("../men-women-img/photo-of-tattooed-man-in-black-t-shirt-sunglasses-and-black-2585828.jpg");
   background-size: 100% 100%;
 }
 
@@ -276,12 +276,12 @@ section > main {
 
 .item-4:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/photo-of-tattooed-man-in-black-t-shirt-sunglasses-and-black-2585828.jpg");
+    url("../men-women-img/photo-of-tattooed-man-in-black-t-shirt-sunglasses-and-black-2585828.jpg");
   cursor: pointer;
 }
 
 .item-5 {
-  background-image: url("../assests/men-women-img/girl-in-red-crop-top-wearing-white-headphones-3755931.jpg");
+  background-image: url("../men-women-img/girl-in-red-crop-top-wearing-white-headphones-3755931.jpg");
   background-size: 100% 100%;
 }
 
@@ -322,12 +322,12 @@ section > main {
 
 .item-5:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/girl-in-red-crop-top-wearing-white-headphones-3755931.jpg");
+    url("../men-women-img/girl-in-red-crop-top-wearing-white-headphones-3755931.jpg");
   cursor: pointer;
 }
 
 .item-6 {
-  background-image: url("../assests/men-women-img/person-in-blue-jeans-1138560.jpg");
+  background-image: url("../men-women-img/person-in-blue-jeans-1138560.jpg");
   background-size: 100% 100%;
 }
 
@@ -368,12 +368,12 @@ section > main {
 
 .item-6:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/person-in-blue-jeans-1138560.jpg");
+    url("../men-women-img/person-in-blue-jeans-1138560.jpg");
   cursor: pointer;
 }
 
 .item-7 {
-  background-image: url("../assests/men-women-img/p-metro-10.jpg");
+  background-image: url("../men-women-img/p-metro-10.jpg");
   background-size: 100% 100%;
 }
 
@@ -414,12 +414,12 @@ section > main {
 
 .item-7:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/p-metro-10.jpg");
+    url("../men-women-img/p-metro-10.jpg");
   cursor: pointer;
 }
 
 .item-8 {
-  background-image: url("../assests/men-women-img/woman-in-black-and-white-plaid-dress-shirt-and-blue-denim-3800744.jpg");
+  background-image: url("../men-women-img/woman-in-black-and-white-plaid-dress-shirt-and-blue-denim-3800744.jpg");
   background-size: 100% 100%;
 }
 
@@ -460,7 +460,7 @@ section > main {
 
 .item-8:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/men-women-img/woman-in-black-and-white-plaid-dress-shirt-and-blue-denim-3800744.jpg");
+    url("../men-women-img/woman-in-black-and-white-plaid-dress-shirt-and-blue-denim-3800744.jpg");
   cursor: pointer;
 }
 
