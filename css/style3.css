@@ -97,7 +97,7 @@ section > main {
 }
 
 .item-1 {
-  background-image: url("../assests/fruit-img/close-up-photography-of-apples-672101.jpg");
+  background-image: url("../fruit-img/close-up-photography-of-apples-672101.jpg");
   background-size: 100% 100%;
 }
 
@@ -138,11 +138,11 @@ section > main {
 
 .item-1:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/fruit-img/close-up-photography-of-apples-672101.jpg");
+    url("../fruit-img/close-up-photography-of-apples-672101.jpg");
 }
 
 .item-2 {
-  background-image: url("../assests/fruit-img/three-yellow-citrus-952360.jpg");
+  background-image: url("../fruit-img/three-yellow-citrus-952360.jpg");
   background-size: 100% 100%;
 }
 
@@ -183,11 +183,11 @@ section > main {
 
 .item-2:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/fruit-img/three-yellow-citrus-952360.jpg");
+    url("../fruit-img/three-yellow-citrus-952360.jpg");
 }
 
 .item-3 {
-  background-image: url("../assests/fruit-img/white-bowl-of-whole-strawberries-89778.jpg");
+  background-image: url("../fruit-img/white-bowl-of-whole-strawberries-89778.jpg");
   background-size: 100% 100%;
 }
 
@@ -228,11 +228,11 @@ section > main {
 
 .item-3:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/fruit-img/white-bowl-of-whole-strawberries-89778.jpg");
+    url("../fruit-img/white-bowl-of-whole-strawberries-89778.jpg");
 }
 
 .item-4 {
-  background-image: url("../assests/fruit-img/yellow-bananas-61127.jpg");
+  background-image: url("../fruit-img/yellow-bananas-61127.jpg");
   background-size: 100% 100%;
 }
 
@@ -273,7 +273,7 @@ section > main {
 
 .item-4:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../assests/fruit-img/yellow-bananas-61127.jpg");
+    url("../fruit-img/yellow-bananas-61127.jpg");
 }
 
 @media (min-width: 0px) and (max-width: 425px) {
